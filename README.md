@@ -1,5 +1,9 @@
 # WWP
+En memoria de Ezequiel Bernasconi 8 de julio de 1993 - 29 de Noviembre de 2016
+https://drive.google.com/open?id=0Bz5ykwxqS9lBak1TX1hsbXRCR00
+
 Working With Ports
+
 Este proyecto fue iniciado por Ezequiel Bernasconi y Mantenido por los administradores de SunRay/ThinLinc
 El objetivo es permitir al usuario la navegación sin proxy y mantener la trazabilidad del mismo a traves del PaloAlto.
 
@@ -26,4 +30,4 @@ Este archivo se modifica en cada evento de login/logout
 Reset:
 Se ejecuta el creationports.py
 Este script corre durante la noche cuando ya no quedan mas usuarios (por ejemplo como parte del killall.sh) para liberar cualquier rango de puertos que pudiera haber quedado ocupado tanto en el PA como en el iptables.
-Re-genera el arhivo pickle vacío.
+Re-genera el arhivo pickle vacío. 
