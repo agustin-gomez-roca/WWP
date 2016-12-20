@@ -1,4 +1,7 @@
 # WWP
+En memoria de Ezequiel Bernasconi 8 de julio de 1993 - 29 de Noviembre de 2016
+https://drive.google.com/open?id=0Bz5ykwxqS9lBak1TX1hsbXRCR00
+
 Working With Ports
 Este proyecto fue iniciado por Ezequiel Bernasconi y Mantenido por los administradores de SunRay/ThinLinc
 El objetivo es permitir al usuario la navegación sin proxy y mantener la trazabilidad del mismo a traves del PaloAlto.
