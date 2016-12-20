@@ -31,4 +31,4 @@ Este archivo se modifica en cada evento de login/logout
 Reset:
 Se ejecuta el creationports.py
 Este script corre durante la noche cuando ya no quedan mas usuarios (por ejemplo como parte del killall.sh) para liberar cualquier rango de puertos que pudiera haber quedado ocupado tanto en el PA como en el iptables.
-Re-genera el arhivo pickle vacío.
+Re-genera el arhivo pickle vacío. 
