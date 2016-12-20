@@ -5,7 +5,7 @@ https://drive.google.com/open?id=0Bz5ykwxqS9lBak1TX1hsbXRCR00
 Working With Ports
 
 Este proyecto fue iniciado por Ezequiel Bernasconi y Mantenido por los administradores de SunRay/ThinLinc
-El objetivo es permitir al usuario la navegación sin proxy y mantener la trazabilidad del mismo a traves del PaloAlto.
+El objetivo es permitir al usuario de CX la navegación sin proxy y mantener la trazabilidad del mismo a traves del PaloAlto.
 
 Para ello se capturan los eventos de Login/Logout del usuario y se ejecutan diferentes scripts según el evento:
 
